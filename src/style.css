@@ -1,0 +1,9 @@
+.pagination-box{
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.todo-list{
+    margin: 35px 0px;
+}
